@@ -116,3 +116,17 @@ button {
     font-size: 10px;
     font-weight: 100;
 }
+
+i {
+    font-size: 40px;
+    color: gray;
+}
+
+#top i {
+    font-size: 14px;
+}
+
+#top div {
+    text-align: center;
+    padding-top: 6px;
+}
